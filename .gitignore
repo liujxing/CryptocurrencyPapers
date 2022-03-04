@@ -1,0 +1,9 @@
+# test pdf file for preview #
+#############################
+out.pdf
+test.pdf
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
